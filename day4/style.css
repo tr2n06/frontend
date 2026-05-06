@@ -1,0 +1,30 @@
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 50px 20px;
+    border: 10px solid blue;
+    box-sizing: border-box; 
+    /* margin-top: 100px;
+    margin-left: 20px; */
+    /* box-shadow: -4px -10px 10px rgba(84, 74, 63, 0.6); */
+    border-radius: 20px;
+}
+img{
+    width: 200px;
+    height: 400px;
+    object-fit: fill;
+    
+}
+html{
+    background-image: url("https://plus.unsplash.com/premium_photo-1676380337240-5da254e8936b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8");
+    background-repeat: no-repeat;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 4px solid blue;
+    padding: 4px;
+    box-shadow: 4px 4px 5px rgba(84, 74, 63, 0.6);
+}

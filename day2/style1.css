@@ -1,0 +1,57 @@
+body{
+    max-width: 700px;
+    margin: 0 auto; 
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+div{
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    margin-left: 50px;
+}
+.bigWord{
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.pinkNumber{
+    color: pink;
+    font-size: 20px;
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.smallWord{
+    font-size: 10px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+.space{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 0px;
+}
+.information{
+    width: 500;
+    height: 300;
+}
+.name{
+    display: inline-block;
+    font-size: 15px;
+    margin-right: 500px;
+}
+.hi{
+    display: inline-block;
+    font-size: 15px;
+}
+.underline{
+  text-decoration-line: underline;
+  text-decoration-color: pink;  
+}

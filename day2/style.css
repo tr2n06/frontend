@@ -1,0 +1,20 @@
+*{
+    font-family: "Playwrite NZ Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+h2 {
+    color: green;
+}
+.blue-color{
+    color: blue;
+}
+.red-color {
+    color: red;
+}
+#num4 {
+    color: yellow;
+}
+.n-enter {
+    display: inline;
+}
